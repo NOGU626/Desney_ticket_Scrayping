@@ -1,0 +1,1 @@
+([('GUI', '/Users/nogu/Desktop/instagram/GUIClient/dist/GUI', 'EXECUTABLE')],)

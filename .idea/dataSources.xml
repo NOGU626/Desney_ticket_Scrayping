@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="SQL" uuid="bd07ac60-86ce-45d6-b391-01486fa40e59">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/SQL.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="SQL [2]" uuid="466ff0bd-cfe6-4841-8705-b324b62f814f">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/GUIClient/DB/SQL.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
